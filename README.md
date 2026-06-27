@@ -1,30 +1,7 @@
 # AI-Prompt-Library
 
 <p align="center">
-  <svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#4158D0;stop-opacity:1" />
-        <stop offset="46%" style="stop-color:#C850C0;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FFCC70;stop-opacity:1" />
-      </linearGradient>
-      <style>
-        .title { font-family: 'Outfit', 'Inter', system-ui, sans-serif; font-weight: 800; font-size: 42px; fill: #ffffff; letter-spacing: 2px; }
-        .subtitle { font-family: 'Inter', system-ui, sans-serif; font-weight: 400; font-size: 16px; fill: #f8f9fa; opacity: 0.95; }
-        .version-badge { font-family: monospace; font-size: 12px; fill: #ffffff; opacity: 0.8; }
-      </style>
-    </defs>
-    <!-- Card Background -->
-    <rect width="800" height="220" rx="16" fill="url(#grad)"/>
-    <!-- Glassmorphic overlays/shapes -->
-    <circle cx="100" cy="180" r="80" fill="#ffffff" opacity="0.1"/>
-    <circle cx="700" cy="40" r="60" fill="#ffffff" opacity="0.08"/>
-    <!-- Text Elements -->
-    <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" class="title">AI-PROMPT-LIBRARY</text>
-    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" class="subtitle">Production-Grade Prompts for Software Engineers, Researchers & AI/ML Students</text>
-    <rect x="365" y="160" width="70" height="24" rx="12" fill="#ffffff" opacity="0.2"/>
-    <text x="50%" y="176%" dominant-baseline="middle" text-anchor="middle" class="version-badge" y="172">v1.0.0</text>
-  </svg>
+  <img src="assets/banner.svg" alt="AI-Prompt-Library Banner" width="100%"/>
 </p>
 
 <p align="center">
